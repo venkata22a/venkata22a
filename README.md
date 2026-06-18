@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkata22a&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata22a&layout=compact&theme=radical)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkata22a&layout=compact&theme=radical)-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venkata22a&color=blue&style=flat-square)
