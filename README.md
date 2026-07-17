@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF5&width=435&lines=Solution+Architect;Platform+Engineering,DevSecOps,SRE)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF5&width=435&lines=Solution+Architect;Platform+Engineering,DevSecOps,SRE)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkata22a&show_icons=true&theme=radical)
 
